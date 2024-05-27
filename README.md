@@ -75,3 +75,6 @@ https://youtu.be/WnY8q0dXBR4?list=PL6u82dzQtlfv8fJF3gm42TDHJdtA2NDWT&t=1449
 
 // skipped 9 - dashboard
 https://youtu.be/ZbIJVhg-txA?list=PL6u82dzQtlfv8fJF3gm42TDHJdtA2NDWT&t=599
+
+last
+https://youtu.be/ZbErpjA4kj0?list=PL6u82dzQtlfv8fJF3gm42TDHJdtA2NDWT
